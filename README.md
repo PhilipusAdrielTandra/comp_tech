@@ -1,4 +1,6 @@
 # Recursive Calculator
+### Philipus Adriel Tandra & Dafa Ramadan Syaidina L5BC
+
 Good afternoon sir, `main.py` contains the recursive calculator and is able to allow white space between numbers as well as account for parse tree construction, has division and contains early error detection.
 
 ## White space
